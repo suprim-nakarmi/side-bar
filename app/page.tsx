@@ -1,6 +1,6 @@
 export default function Page() {
   return (
-    <div className="min-h-screen bg-gray-200 p-8">
+    <div className="min-h-screen bg-gray-300 p-8">
       
       <div className="bg-gray-100 rounded-3xl shadow-lg w-72 p-6">
         
